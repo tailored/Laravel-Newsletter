@@ -1,6 +1,6 @@
 {
-    "name": "fbf/laravel-newsletter-signup",
-    "description": "A Laravel 4 Package for adding newsletter signup (and unsubscribe) functionality to a web site",
+    "name": "tailored/laravel-newsletter",
+    "description": "A Laravel 5 Package for adding newsletter signup (and unsubscribe) functionality to a web site",
     "license": "MIT",
     "authors": [
         {
